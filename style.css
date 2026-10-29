@@ -63,6 +63,18 @@ body {
 }
 .masthead .sub { margin: 4px 0 0; opacity: 0.85; }
 
+/* Logo sits at the same left edge as the table; title shifts right of it */
+.brand { display: flex; align-items: center; gap: 18px; }
+.logo {
+  height: 72px; width: auto; max-width: 110px;
+  object-fit: contain; flex-shrink: 0;
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));
+}
+@media (max-width: 600px) {
+  .logo { height: 52px; }
+  .brand { gap: 12px; }
+}
+
 /* Toolbar */
 .toolbar {
   display: flex; flex-wrap: wrap; gap: 12px;
