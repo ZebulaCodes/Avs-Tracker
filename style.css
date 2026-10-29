@@ -176,12 +176,18 @@ body {
 
 .photo {
   width: 220px; height: 220px; border-radius: 10px;
-  background: radial-gradient(circle at 50% 30%, #fff, #e9ecef);
+  /* NHL-style backdrop: fine vertical pinstripes over a black-to-burgundy fade.
+     Headshots are transparent PNGs, so this shows through behind the player. */
+  background:
+    repeating-linear-gradient(90deg,
+      rgba(0, 0, 0, 0.18) 0 2px,
+      rgba(255, 255, 255, 0.03) 2px 4px),
+    linear-gradient(180deg, #120a0d 0%, #2c0f19 40%, #5a1d31 85%, #6f263d 100%);
   border: 3px solid var(--blue);
   overflow: hidden; display: grid; place-items: end center;
 }
 .photo img { width: 100%; height: 100%; object-fit: cover; }
-.photo .no-photo { place-self: center; color: var(--muted); font-size: 0.9rem; }
+.photo .no-photo { place-self: center; color: rgba(255, 255, 255, 0.6); font-size: 0.9rem; }
 
 .stat-row {
   display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;
