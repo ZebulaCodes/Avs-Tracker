@@ -1,0 +1,5 @@
+{
+  "_note": "The NHL API doesn't publish captaincy, so set it here. Use full names as they appear on NHL.com.",
+  "captain": "Gabriel Landeskog",
+  "alternates": ["Nathan MacKinnon", "Cale Makar"]
+}

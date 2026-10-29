@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Avs Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <h1>Avs Tracker</h1>
+      <p class="sub">Colorado Avalanche roster, stats and injury status</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="toolbar">
+      <div class="filters" role="tablist" aria-label="Filter by position">
+        <button class="chip is-on" data-filter="all">All</button>
+        <button class="chip" data-filter="Forward">Forwards</button>
+        <button class="chip" data-filter="Defense">Defense</button>
+        <button class="chip" data-filter="Goalie">Goalies</button>
+        <button class="chip" data-filter="injured">Injured</button>
+      </div>
+      <p class="updated" id="updated"></p>
+    </div>
+
+    <div class="table-card">
+      <table class="roster">
+        <thead>
+          <tr>
+            <th class="num">#</th>
+            <th>Player</th>
+            <th>Pos</th>
+            <th class="ca">C/A</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="roster-body">
+          <tr><td colspan="5" class="empty">Loading roster…</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <section id="off-roster" class="off-roster" hidden></section>
+
+    <p class="credit">Stats from the NHL. Injury reports via ESPN. Personal fan site, not affiliated with the NHL or the Colorado Avalanche.</p>
+  </main>
+
+  <dialog id="card" class="card" aria-labelledby="card-name">
+    <button class="close" id="card-close" aria-label="Close">×</button>
+    <div id="card-content"></div>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

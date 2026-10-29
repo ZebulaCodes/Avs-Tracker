@@ -1,0 +1,220 @@
+:root {
+  --burgundy: #6f263d;
+  --burgundy-dark: #4f1a2b;
+  --blue: #236192;
+  --silver: #a2aaad;
+  --ink: #1d1f22;
+  --muted: #5d646b;
+  --line: #e3e5e8;
+  --bg: #f4f5f7;
+  --card: #ffffff;
+  --row-hover: #f3eef0;
+  --ok: #1f7a4d;
+  --ok-bg: #e3f4ea;
+  --warn: #8a5a00;
+  --warn-bg: #fdf0d5;
+  --bad: #a3242e;
+  --bad-bg: #fbe4e6;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #eceef0;
+    --muted: #a3a9af;
+    --line: #2d3238;
+    --bg: #121417;
+    --card: #1b1e22;
+    --row-hover: #2a2026;
+    --ok: #6fd3a0;
+    --ok-bg: #173327;
+    --warn: #f2c260;
+    --warn-bg: #3a2e14;
+    --bad: #f28b93;
+    --bad-bg: #3d1c20;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 16px;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 16px; }
+
+/* Header */
+.masthead {
+  background: linear-gradient(135deg, var(--burgundy) 0%, var(--burgundy-dark) 60%, var(--blue) 140%);
+  color: #fff;
+  padding: 28px 0 24px;
+  border-bottom: 4px solid var(--silver);
+}
+.masthead h1 {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600;
+  font-size: 2.2rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin: 0;
+}
+.masthead .sub { margin: 4px 0 0; opacity: 0.85; }
+
+/* Toolbar */
+.toolbar {
+  display: flex; flex-wrap: wrap; gap: 12px;
+  align-items: center; justify-content: space-between;
+  margin: 20px 0 12px;
+}
+.filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  font: inherit; font-size: 0.9rem; font-weight: 500;
+  border: 1px solid var(--line); background: var(--card); color: var(--ink);
+  padding: 6px 14px; border-radius: 999px; cursor: pointer;
+}
+.chip:hover { border-color: var(--burgundy); }
+.chip.is-on { background: var(--burgundy); border-color: var(--burgundy); color: #fff; }
+.updated { margin: 0; color: var(--muted); font-size: 0.85rem; }
+
+/* Roster table */
+.table-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.roster { width: 100%; border-collapse: collapse; }
+.roster th {
+  text-align: left;
+  font-family: "Oswald", sans-serif; font-weight: 500;
+  text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.85rem;
+  background: var(--blue); color: #fff;
+  padding: 10px 14px;
+}
+.roster td { padding: 11px 14px; border-top: 1px solid var(--line); }
+.roster tbody tr { cursor: pointer; }
+.roster tbody tr:hover, .roster tbody tr:focus-visible { background: var(--row-hover); outline: none; }
+.roster .num { width: 56px; text-align: center; font-weight: 600; font-variant-numeric: tabular-nums; }
+.roster .ca { width: 64px; text-align: center; }
+.roster .player { font-weight: 600; }
+.roster .empty { text-align: center; color: var(--muted); cursor: default; }
+.group-row td {
+  background: var(--bg);
+  font-family: "Oswald", sans-serif; font-weight: 500;
+  text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.8rem;
+  color: var(--muted); padding: 7px 14px; cursor: default;
+}
+.group-row:hover td { background: var(--bg); }
+
+.letter {
+  display: inline-grid; place-items: center;
+  width: 26px; height: 26px; border-radius: 50%;
+  border: 2px solid var(--burgundy); color: var(--burgundy);
+  font-family: "Oswald", sans-serif; font-weight: 600; font-size: 0.85rem;
+}
+@media (prefers-color-scheme: dark) { .letter { border-color: var(--silver); color: var(--silver); } }
+
+/* Status badges */
+.badge {
+  display: inline-block; padding: 3px 10px; border-radius: 999px;
+  font-size: 0.8rem; font-weight: 600; white-space: nowrap;
+}
+.badge.ok { background: var(--ok-bg); color: var(--ok); }
+.badge.warn { background: var(--warn-bg); color: var(--warn); }
+.badge.bad { background: var(--bad-bg); color: var(--bad); }
+
+.off-roster {
+  margin-top: 16px; background: var(--card);
+  border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+}
+.off-roster h2 { font-family: "Oswald", sans-serif; font-weight: 500; font-size: 1rem; text-transform: uppercase; letter-spacing: 0.06em; margin: 0 0 8px; }
+.off-roster ul { margin: 0; padding-left: 18px; color: var(--muted); }
+
+.credit { color: var(--muted); font-size: 0.8rem; margin: 20px 0 32px; }
+
+/* Report card */
+.card {
+  width: min(720px, calc(100vw - 32px));
+  max-height: calc(100vh - 32px);
+  border: none; border-radius: 12px; padding: 0;
+  background: var(--card); color: var(--ink);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.35);
+}
+.card::backdrop { background: rgba(20, 10, 15, 0.6); }
+.close {
+  position: absolute; top: 10px; right: 12px;
+  background: none; border: none; color: #fff;
+  font-size: 1.8rem; line-height: 1; cursor: pointer; padding: 4px 8px;
+}
+
+.card-head {
+  background: linear-gradient(135deg, var(--burgundy), var(--burgundy-dark));
+  color: #fff; padding: 20px 56px 18px 24px;
+  border-bottom: 4px solid var(--blue);
+  display: flex; align-items: baseline; gap: 14px;
+}
+.card-head .big-num {
+  font-family: "Oswald", sans-serif; font-weight: 600; font-size: 2.6rem; line-height: 1;
+  opacity: 0.9;
+}
+.card-head h2 {
+  font-family: "Oswald", sans-serif; font-weight: 600;
+  font-size: 1.8rem; margin: 0; letter-spacing: 0.02em;
+}
+.card-head .head-letter { border-color: #fff; color: #fff; margin-left: 4px; vertical-align: middle; }
+
+.card-body {
+  display: grid; grid-template-columns: 1fr 220px; gap: 24px;
+  padding: 22px 24px 8px;
+}
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 10px 18px; margin: 0; align-content: start; }
+.facts dt { color: var(--muted); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; padding-top: 2px; }
+.facts dd { margin: 0; font-size: 1.05rem; font-weight: 500; }
+
+.photo {
+  width: 220px; height: 220px; border-radius: 10px;
+  background: radial-gradient(circle at 50% 30%, #fff, #e9ecef);
+  border: 3px solid var(--blue);
+  overflow: hidden; display: grid; place-items: end center;
+}
+.photo img { width: 100%; height: 100%; object-fit: cover; }
+.photo .no-photo { place-self: center; color: var(--muted); font-size: 0.9rem; }
+
+.stat-row {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;
+  padding: 14px 24px 4px;
+}
+.stat {
+  background: var(--bg); border-radius: 8px; padding: 10px 8px; text-align: center;
+}
+.stat .val { font-family: "Oswald", sans-serif; font-weight: 600; font-size: 1.8rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.stat .lbl { color: var(--muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; }
+
+.injury {
+  margin: 16px 24px 24px; border-radius: 10px; padding: 14px 16px;
+  border: 1px solid var(--line); background: var(--bg);
+}
+.injury h3 {
+  font-family: "Oswald", sans-serif; font-weight: 500; text-transform: uppercase;
+  letter-spacing: 0.06em; font-size: 1rem; margin: 0 0 10px;
+}
+.injury.has-injury { border-color: var(--bad); background: var(--bad-bg); }
+.injury.has-injury h3 { color: var(--bad); }
+.injury .inj-grid { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 0 0 10px; }
+.injury .inj-grid dt { color: var(--muted); font-size: 0.85rem; }
+.injury .inj-grid dd { margin: 0; font-weight: 600; }
+.injury p { margin: 8px 0 0; line-height: 1.5; }
+.injury .note { color: var(--muted); font-size: 0.8rem; }
+
+@media (max-width: 600px) {
+  .masthead h1 { font-size: 1.7rem; }
+  .card-body { grid-template-columns: 1fr; }
+  .photo { width: 160px; height: 160px; order: -1; justify-self: center; }
+  .stat-row { grid-template-columns: repeat(2, 1fr); }
+  .roster th, .roster td { padding: 9px 8px; }
+  .roster .num { width: 40px; }
+  .roster .ca { width: 44px; }
+}

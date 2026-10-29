@@ -1,0 +1,35 @@
+name: Update Avs data
+
+on:
+  schedule:
+    # Every 3 hours (times are UTC)
+    - cron: "17 */3 * * *"
+  workflow_dispatch: # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch roster, stats and injuries
+        run: node scripts/fetch-data.mjs
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "avs-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/avs.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update Avs data"
+            git push
+          fi
