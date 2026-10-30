@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-10-30T09:56:54.070Z",
+  "updated": "2026-10-30T17:59:23.186Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -243,8 +243,18 @@
       "height": 72,
       "weight": 175,
       "shoots": "R",
-      "status": "Active",
-      "injury": null,
+      "status": "Day-To-Day",
+      "injury": {
+        "name": "Logan O'Connor",
+        "status": "Day-To-Day",
+        "bodyPart": "Personal",
+        "detail": "Not Specified",
+        "side": null,
+        "returnDate": "2026-10-31",
+        "updated": "2026-10-30T17:14Z",
+        "shortComment": "day-to-day",
+        "longComment": "day-to-day"
+      },
       "stats": {
         "gp": 3,
         "goals": 0,
