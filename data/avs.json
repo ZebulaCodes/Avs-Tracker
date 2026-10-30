@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-10-30T17:59:23.186Z",
+  "updated": "2026-10-30T22:16:09.718Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -473,13 +473,13 @@
       "injury": {
         "name": "Josh Manson",
         "status": "Out",
-        "bodyPart": "Lower Body",
+        "bodyPart": "Ankle",
         "detail": null,
         "side": "Left",
-        "returnDate": "2026-11-05",
-        "updated": "2026-10-29T04:10Z",
-        "shortComment": "out",
-        "longComment": "out"
+        "returnDate": "2026-12-27",
+        "updated": "2026-10-30T18:27Z",
+        "shortComment": "Manson (ankle) is expected to miss the next eight weeks, Corey Masisak of The Denver Post reports Friday.",
+        "longComment": "Manson has a goal, four points, two PIM, 28 hits and 17 blocks in 13 appearances with Colorado in 2026-27. He's been serving primarily in a third-pairing role. Noah Juulsen might play regularly during Manson's absence."
       },
       "stats": {
         "gp": 13,
