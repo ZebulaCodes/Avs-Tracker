@@ -1,9 +1,33 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-10-31T12:20:47.139Z",
+  "updated": "2026-10-31T19:15:55.682Z",
   "injuryFeedOk": true,
   "players": [
+    {
+      "id": 8484149,
+      "name": "Gavin Brindley",
+      "number": 54,
+      "position": "C",
+      "group": "Forward",
+      "letter": "",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8484149.png",
+      "birthDate": "2004-10-05",
+      "birthPlace": "Fort Myers, FL, USA",
+      "height": 68,
+      "weight": 173,
+      "shoots": "R",
+      "status": "Active",
+      "injury": null,
+      "stats": {
+        "gp": 4,
+        "goals": 0,
+        "assists": 1,
+        "points": 1,
+        "plusMinus": 1,
+        "pim": 2
+      }
+    },
     {
       "id": 8486171,
       "name": "T.J. Hughes",
@@ -243,17 +267,17 @@
       "height": 72,
       "weight": 175,
       "shoots": "R",
-      "status": "Day-To-Day",
+      "status": "Out",
       "injury": {
         "name": "Logan O'Connor",
-        "status": "Day-To-Day",
+        "status": "Out",
         "bodyPart": "Personal",
         "detail": "Not Specified",
         "side": null,
-        "returnDate": "2026-10-31",
-        "updated": "2026-10-30T17:14Z",
-        "shortComment": "day-to-day",
-        "longComment": "day-to-day"
+        "returnDate": "2026-11-02",
+        "updated": "2026-10-31T17:10Z",
+        "shortComment": "O'Connor (personal) will not play in Saturday's home clash against the Flames, per Corey Masisak of The Denver Post.",
+        "longComment": "O'Connor will get Saturday's clash off as he continues to mourn the loss of his father, Myles. The 30-year-old winger was recently given the all clear from his lower-body injury and has played in three games this season. In his absence Saturday, Gavin Brindley will take his spot on the team's fourth line. Expect O'Connor to have a solid chance to play in Monday's road clash against the Blackhawks."
       },
       "stats": {
         "gp": 3,
