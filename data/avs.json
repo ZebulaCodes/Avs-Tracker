@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-02T10:58:00.014Z",
+  "updated": "2026-11-02T21:41:48.456Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -243,18 +243,8 @@
       "height": 72,
       "weight": 175,
       "shoots": "R",
-      "status": "Day-To-Day",
-      "injury": {
-        "name": "Logan O'Connor",
-        "status": "Day-To-Day",
-        "bodyPart": "Personal",
-        "detail": "Not Specified",
-        "side": null,
-        "returnDate": "2026-11-02",
-        "updated": "2026-11-01T13:42Z",
-        "shortComment": "day-to-day",
-        "longComment": "day-to-day"
-      },
+      "status": "Active",
+      "injury": null,
       "stats": {
         "gp": 3,
         "goals": 0,
@@ -488,6 +478,30 @@
         "points": 4,
         "plusMinus": 5,
         "pim": 2
+      }
+    },
+    {
+      "id": 8479387,
+      "name": "Keaton Middleton",
+      "number": 67,
+      "position": "D",
+      "group": "Defense",
+      "letter": "",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8479387.png",
+      "birthDate": "1998-02-10",
+      "birthPlace": "Edmonton, AB, CAN",
+      "height": 78,
+      "weight": 240,
+      "shoots": "L",
+      "status": "Active",
+      "injury": null,
+      "stats": {
+        "gp": 0,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 0,
+        "pim": 0
       }
     },
     {
