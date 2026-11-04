@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-03T23:17:23.631Z",
+  "updated": "2026-11-04T06:11:44.221Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -20,7 +20,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 2,
         "assists": 4,
         "points": 6,
@@ -44,10 +44,10 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
-        "goals": 4,
+        "gp": 16,
+        "goals": 5,
         "assists": 9,
-        "points": 13,
+        "points": 14,
         "plusMinus": 1,
         "pim": 4
       }
@@ -68,11 +68,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 2,
         "assists": 4,
         "points": 6,
-        "plusMinus": 2,
+        "plusMinus": 1,
         "pim": 9
       }
     },
@@ -126,7 +126,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 5,
         "assists": 5,
         "points": 10,
@@ -150,11 +150,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 12,
         "assists": 5,
         "points": 17,
-        "plusMinus": 15,
+        "plusMinus": 12,
         "pim": 4
       }
     },
@@ -174,11 +174,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 9,
-        "assists": 16,
-        "points": 25,
-        "plusMinus": 8,
+        "assists": 18,
+        "points": 27,
+        "plusMinus": 5,
         "pim": 12
       }
     },
@@ -198,12 +198,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 7,
         "assists": 11,
         "points": 18,
-        "plusMinus": 12,
-        "pim": 4
+        "plusMinus": 9,
+        "pim": 6
       }
     },
     {
@@ -222,7 +222,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 4,
         "assists": 5,
         "points": 9,
@@ -246,12 +246,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 4,
+        "gp": 5,
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": 1,
-        "pim": 6
+        "plusMinus": 0,
+        "pim": 8
       }
     },
     {
@@ -270,12 +270,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 9,
+        "gp": 10,
         "goals": 2,
         "assists": 3,
         "points": 5,
         "plusMinus": 1,
-        "pim": 2
+        "pim": 4
       }
     },
     {
@@ -294,7 +294,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 6,
         "assists": 5,
         "points": 11,
@@ -318,11 +318,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 2,
         "assists": 5,
         "points": 7,
-        "plusMinus": 7,
+        "plusMinus": 6,
         "pim": 23
       }
     },
@@ -342,11 +342,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 0,
         "assists": 6,
         "points": 6,
-        "plusMinus": 0,
+        "plusMinus": -1,
         "pim": 10
       }
     },
@@ -366,11 +366,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 10,
+        "gp": 11,
         "goals": 0,
         "assists": 1,
         "points": 1,
-        "plusMinus": 2,
+        "plusMinus": 1,
         "pim": 4
       }
     },
@@ -390,7 +390,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 0,
         "assists": 4,
         "points": 4,
@@ -414,11 +414,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 14,
-        "goals": 3,
-        "assists": 13,
-        "points": 16,
-        "plusMinus": 6,
+        "gp": 15,
+        "goals": 4,
+        "assists": 14,
+        "points": 18,
+        "plusMinus": 3,
         "pim": 2
       }
     },
@@ -438,10 +438,10 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 14,
+        "gp": 15,
         "goals": 0,
-        "assists": 6,
-        "points": 6,
+        "assists": 7,
+        "points": 7,
         "plusMinus": 9,
         "pim": 4
       }
@@ -520,11 +520,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 5,
         "assists": 10,
         "points": 15,
-        "plusMinus": 15,
+        "plusMinus": 12,
         "pim": 6
       }
     },
@@ -544,12 +544,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 11,
+        "gp": 12,
         "wins": 8,
         "losses": 3,
         "otl": 0,
-        "gaa": 2.662314,
-        "svPct": 0.898601,
+        "gaa": 2.79931,
+        "svPct": 0.893688,
         "shutouts": 0
       }
     },
@@ -569,12 +569,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 4,
+        "gp": 5,
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "otl": 1,
-        "gaa": 3.481144,
-        "svPct": 0.888889,
+        "gaa": 4.02035,
+        "svPct": 0.866667,
         "shutouts": 0
       }
     }
