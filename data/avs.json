@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-04T14:27:20.920Z",
+  "updated": "2026-11-04T21:18:11.111Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -478,30 +478,6 @@
         "points": 4,
         "plusMinus": 5,
         "pim": 2
-      }
-    },
-    {
-      "id": 8479387,
-      "name": "Keaton Middleton",
-      "number": 67,
-      "position": "D",
-      "group": "Defense",
-      "letter": "",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8479387.png",
-      "birthDate": "1998-02-10",
-      "birthPlace": "Edmonton, AB, CAN",
-      "height": 78,
-      "weight": 240,
-      "shoots": "L",
-      "status": "Active",
-      "injury": null,
-      "stats": {
-        "gp": 0,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 0,
-        "pim": 0
       }
     },
     {
