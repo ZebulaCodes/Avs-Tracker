@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-09T06:19:13.200Z",
+  "updated": "2026-11-09T19:45:53.778Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -348,6 +348,30 @@
         "points": 6,
         "plusMinus": -1,
         "pim": 12
+      }
+    },
+    {
+      "id": 8482942,
+      "name": "Alex Gagne",
+      "number": 45,
+      "position": "D",
+      "group": "Defense",
+      "letter": "",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8482942.png",
+      "birthDate": "2002-08-12",
+      "birthPlace": "Bedford, NH, USA",
+      "height": 76,
+      "weight": 205,
+      "shoots": "L",
+      "status": "Active",
+      "injury": null,
+      "stats": {
+        "gp": 0,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 0,
+        "pim": 0
       }
     },
     {
