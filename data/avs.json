@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-12T23:35:13.253Z",
+  "updated": "2026-11-13T06:37:51.366Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -20,10 +20,10 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 2,
-        "assists": 6,
-        "points": 8,
+        "assists": 7,
+        "points": 9,
         "plusMinus": 1,
         "pim": 2
       }
@@ -44,12 +44,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 5,
-        "assists": 10,
-        "points": 15,
-        "plusMinus": 1,
-        "pim": 6
+        "assists": 11,
+        "points": 16,
+        "plusMinus": 0,
+        "pim": 8
       }
     },
     {
@@ -68,11 +68,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
-        "goals": 3,
+        "gp": 20,
+        "goals": 4,
         "assists": 5,
-        "points": 8,
-        "plusMinus": 2,
+        "points": 9,
+        "plusMinus": 1,
         "pim": 9
       }
     },
@@ -126,11 +126,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
-        "goals": 7,
+        "gp": 20,
+        "goals": 8,
         "assists": 5,
-        "points": 12,
-        "plusMinus": -3,
+        "points": 13,
+        "plusMinus": -4,
         "pim": 9
       }
     },
@@ -150,11 +150,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
-        "goals": 13,
+        "gp": 20,
+        "goals": 14,
         "assists": 5,
-        "points": 18,
-        "plusMinus": 15,
+        "points": 19,
+        "plusMinus": 14,
         "pim": 4
       }
     },
@@ -171,14 +171,24 @@
       "height": 72,
       "weight": 200,
       "shoots": "R",
-      "status": "Active",
-      "injury": null,
+      "status": "Day-To-Day",
+      "injury": {
+        "name": "Nathan MacKinnon",
+        "status": "Day-To-Day",
+        "bodyPart": "Lower Body",
+        "detail": null,
+        "side": null,
+        "returnDate": "2026-11-14",
+        "updated": "2026-11-13T02:06Z",
+        "shortComment": "day-to-day",
+        "longComment": "day-to-day"
+      },
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 10,
         "assists": 20,
         "points": 30,
-        "plusMinus": 7,
+        "plusMinus": 6,
         "pim": 12
       }
     },
@@ -198,11 +208,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 10,
         "assists": 14,
         "points": 24,
-        "plusMinus": 12,
+        "plusMinus": 11,
         "pim": 8
       }
     },
@@ -222,10 +232,10 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 5,
-        "assists": 6,
-        "points": 11,
+        "assists": 7,
+        "points": 12,
         "plusMinus": 5,
         "pim": 8
       }
@@ -246,11 +256,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 8,
+        "gp": 9,
         "goals": 0,
         "assists": 2,
         "points": 2,
-        "plusMinus": 1,
+        "plusMinus": 0,
         "pim": 8
       }
     },
@@ -270,11 +280,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 13,
+        "gp": 14,
         "goals": 2,
         "assists": 4,
         "points": 6,
-        "plusMinus": -1,
+        "plusMinus": -3,
         "pim": 4
       }
     },
@@ -294,7 +304,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 7,
         "assists": 6,
         "points": 13,
@@ -318,12 +328,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 2,
         "assists": 5,
         "points": 7,
         "plusMinus": 8,
-        "pim": 23
+        "pim": 25
       }
     },
     {
@@ -342,11 +352,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 0,
         "assists": 6,
         "points": 6,
-        "plusMinus": -2,
+        "plusMinus": -3,
         "pim": 12
       }
     },
@@ -390,7 +400,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 14,
+        "gp": 15,
         "goals": 0,
         "assists": 2,
         "points": 2,
@@ -414,12 +424,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 0,
         "assists": 4,
         "points": 4,
-        "plusMinus": 2,
-        "pim": 8
+        "plusMinus": 1,
+        "pim": 14
       }
     },
     {
@@ -435,14 +445,24 @@
       "height": 72,
       "weight": 187,
       "shoots": "R",
-      "status": "Active",
-      "injury": null,
+      "status": "Day-To-Day",
+      "injury": {
+        "name": "Cale Makar",
+        "status": "Day-To-Day",
+        "bodyPart": "Lower Body",
+        "detail": null,
+        "side": null,
+        "returnDate": "2026-11-12",
+        "updated": "2026-11-13T02:10Z",
+        "shortComment": "day-to-day",
+        "longComment": "day-to-day"
+      },
       "stats": {
-        "gp": 18,
+        "gp": 19,
         "goals": 5,
         "assists": 18,
         "points": 23,
-        "plusMinus": 5,
+        "plusMinus": 4,
         "pim": 2
       }
     },
@@ -462,11 +482,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 18,
+        "gp": 19,
         "goals": 0,
         "assists": 8,
         "points": 8,
-        "plusMinus": 12,
+        "plusMinus": 11,
         "pim": 4
       }
     },
@@ -520,11 +540,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 19,
+        "gp": 20,
         "goals": 6,
-        "assists": 12,
-        "points": 18,
-        "plusMinus": 18,
+        "assists": 13,
+        "points": 19,
+        "plusMinus": 17,
         "pim": 8
       }
     },
@@ -569,12 +589,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 5,
+        "gp": 6,
         "wins": 1,
         "losses": 3,
-        "otl": 1,
-        "gaa": 4.02035,
-        "svPct": 0.866667,
+        "otl": 2,
+        "gaa": 3.991734,
+        "svPct": 0.863354,
         "shutouts": 0
       }
     }
