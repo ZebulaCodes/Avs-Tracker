@@ -1,9 +1,33 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-13T06:37:51.366Z",
+  "updated": "2026-11-13T17:10:24.109Z",
   "injuryFeedOk": true,
   "players": [
+    {
+      "id": 8484149,
+      "name": "Gavin Brindley",
+      "number": 54,
+      "position": "C",
+      "group": "Forward",
+      "letter": "",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8484149.png",
+      "birthDate": "2004-10-05",
+      "birthPlace": "Fort Myers, FL, USA",
+      "height": 68,
+      "weight": 173,
+      "shoots": "R",
+      "status": "Active",
+      "injury": null,
+      "stats": {
+        "gp": 5,
+        "goals": 0,
+        "assists": 1,
+        "points": 1,
+        "plusMinus": 1,
+        "pim": 2
+      }
+    },
     {
       "id": 8486171,
       "name": "T.J. Hughes",
@@ -452,7 +476,7 @@
         "bodyPart": "Lower Body",
         "detail": null,
         "side": null,
-        "returnDate": "2026-11-12",
+        "returnDate": "2026-11-14",
         "updated": "2026-11-13T02:10Z",
         "shortComment": "day-to-day",
         "longComment": "day-to-day"
