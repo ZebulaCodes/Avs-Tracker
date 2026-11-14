@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-14T13:31:43.422Z",
+  "updated": "2026-11-14T19:55:11.265Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -195,17 +195,17 @@
       "height": 72,
       "weight": 200,
       "shoots": "R",
-      "status": "Day-To-Day",
+      "status": "Out",
       "injury": {
         "name": "Nathan MacKinnon",
-        "status": "Day-To-Day",
+        "status": "Out",
         "bodyPart": "Lower Body",
         "detail": null,
         "side": null,
-        "returnDate": "2026-11-14",
-        "updated": "2026-11-13T02:06Z",
-        "shortComment": "day-to-day",
-        "longComment": "day-to-day"
+        "returnDate": "2026-12-12",
+        "updated": "2026-11-14T17:30Z",
+        "shortComment": "MacKinnon (lower body) will miss at least one month, per Corey Masisak of The Denver Post on Saturday.",
+        "longComment": "MacKinnon suffered a lower-body injury against Ottawa on Thursday and will be out of action for a while. He has registered 10 goals, 30 points, 71 shots on net and 11 hits in 20 appearances this season. Nazem Kadri and Brock Nelson will probably receive increased roles during MacKinnon's absence."
       },
       "stats": {
         "gp": 20,
@@ -469,17 +469,17 @@
       "height": 72,
       "weight": 187,
       "shoots": "R",
-      "status": "Day-To-Day",
+      "status": "Out",
       "injury": {
         "name": "Cale Makar",
-        "status": "Day-To-Day",
+        "status": "Out",
         "bodyPart": "Lower Body",
         "detail": null,
         "side": null,
-        "returnDate": "2026-11-14",
-        "updated": "2026-11-13T02:10Z",
-        "shortComment": "day-to-day",
-        "longComment": "day-to-day"
+        "returnDate": "2026-11-28",
+        "updated": "2026-11-14T17:37Z",
+        "shortComment": "out",
+        "longComment": "out"
       },
       "stats": {
         "gp": 19,
