@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-14T19:55:11.265Z",
+  "updated": "2026-11-15T01:00:29.953Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -387,7 +387,7 @@
     {
       "id": 8482942,
       "name": "Alex Gagne",
-      "number": 45,
+      "number": 28,
       "position": "D",
       "group": "Defense",
       "letter": "",
