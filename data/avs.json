@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-15T18:48:01.595Z",
+  "updated": "2026-11-16T00:59:05.579Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -546,6 +546,30 @@
         "points": 4,
         "plusMinus": 5,
         "pim": 2
+      }
+    },
+    {
+      "id": 8476422,
+      "name": "Mike Reilly",
+      "number": 5,
+      "position": "D",
+      "group": "Defense",
+      "letter": "",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8476422.png",
+      "birthDate": "1993-07-13",
+      "birthPlace": "Glenview, IL, USA",
+      "height": 74,
+      "weight": 191,
+      "shoots": "L",
+      "status": "Active",
+      "injury": null,
+      "stats": {
+        "gp": 0,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 0,
+        "pim": 0
       }
     },
     {
