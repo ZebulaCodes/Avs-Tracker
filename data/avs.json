@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-19T02:32:22.352Z",
+  "updated": "2026-11-19T11:33:15.007Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -17,10 +17,20 @@
       "height": 68,
       "weight": 173,
       "shoots": "R",
-      "status": "Active",
-      "injury": null,
+      "status": "Day-To-Day",
+      "injury": {
+        "name": "Gavin Brindley",
+        "status": "Day-To-Day",
+        "bodyPart": "Upper Body",
+        "detail": null,
+        "side": null,
+        "returnDate": "2026-11-19",
+        "updated": "2026-11-19T04:38Z",
+        "shortComment": "day-to-day",
+        "longComment": "day-to-day"
+      },
       "stats": {
-        "gp": 6,
+        "gp": 7,
         "goals": 0,
         "assists": 1,
         "points": 1,
@@ -44,11 +54,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 2,
         "assists": 8,
         "points": 10,
-        "plusMinus": 1,
+        "plusMinus": -2,
         "pim": 2
       }
     },
@@ -68,12 +78,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 5,
         "assists": 12,
         "points": 17,
-        "plusMinus": 1,
-        "pim": 8
+        "plusMinus": -2,
+        "pim": 10
       }
     },
     {
@@ -92,12 +102,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
-        "goals": 4,
+        "gp": 22,
+        "goals": 5,
         "assists": 5,
-        "points": 9,
-        "plusMinus": 2,
-        "pim": 9
+        "points": 10,
+        "plusMinus": 3,
+        "pim": 11
       }
     },
     {
@@ -150,12 +160,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 8,
         "assists": 5,
         "points": 13,
-        "plusMinus": -3,
-        "pim": 13
+        "plusMinus": -4,
+        "pim": 22
       }
     },
     {
@@ -174,11 +184,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 15,
         "assists": 6,
         "points": 21,
-        "plusMinus": 14,
+        "plusMinus": 13,
         "pim": 4
       }
     },
@@ -232,11 +242,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 10,
         "assists": 14,
         "points": 24,
-        "plusMinus": 11,
+        "plusMinus": 9,
         "pim": 8
       }
     },
@@ -256,12 +266,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 6,
         "assists": 7,
         "points": 13,
-        "plusMinus": 6,
-        "pim": 8
+        "plusMinus": 5,
+        "pim": 10
       }
     },
     {
@@ -280,7 +290,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 10,
+        "gp": 11,
         "goals": 0,
         "assists": 3,
         "points": 3,
@@ -304,11 +314,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 15,
+        "gp": 16,
         "goals": 3,
         "assists": 4,
         "points": 7,
-        "plusMinus": -2,
+        "plusMinus": -1,
         "pim": 4
       }
     },
@@ -328,10 +338,10 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 7,
-        "assists": 6,
-        "points": 13,
+        "assists": 7,
+        "points": 14,
         "plusMinus": 0,
         "pim": 6
       }
@@ -352,12 +362,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 3,
         "assists": 5,
         "points": 8,
         "plusMinus": 9,
-        "pim": 25
+        "pim": 27
       }
     },
     {
@@ -376,7 +386,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 0,
         "assists": 6,
         "points": 6,
@@ -400,12 +410,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 1,
+        "gp": 2,
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": 0,
-        "pim": 0
+        "plusMinus": -1,
+        "pim": 5
       }
     },
     {
@@ -424,11 +434,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 16,
+        "gp": 17,
         "goals": 0,
         "assists": 2,
         "points": 2,
-        "plusMinus": 0,
+        "plusMinus": -1,
         "pim": 8
       }
     },
@@ -448,7 +458,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 0,
         "assists": 5,
         "points": 5,
@@ -506,11 +516,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 20,
+        "gp": 21,
         "goals": 0,
         "assists": 9,
         "points": 9,
-        "plusMinus": 13,
+        "plusMinus": 14,
         "pim": 4
       }
     },
@@ -588,11 +598,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 6,
         "assists": 13,
         "points": 19,
-        "plusMinus": 16,
+        "plusMinus": 15,
         "pim": 8
       }
     },
@@ -612,12 +622,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 16,
+        "gp": 17,
         "wins": 11,
-        "losses": 3,
+        "losses": 4,
         "otl": 1,
-        "gaa": 2.524363,
-        "svPct": 0.904878,
+        "gaa": 2.555781,
+        "svPct": 0.90411,
         "shutouts": 1
       }
     },
@@ -634,18 +644,8 @@
       "height": 74,
       "weight": 201,
       "shoots": "L",
-      "status": "Day-To-Day",
-      "injury": {
-        "name": "Scott Wedgewood",
-        "status": "Day-To-Day",
-        "bodyPart": "Illness",
-        "detail": null,
-        "side": null,
-        "returnDate": "2026-11-18",
-        "updated": "2026-11-17T19:44Z",
-        "shortComment": "day-to-day",
-        "longComment": "day-to-day"
-      },
+      "status": "Active",
+      "injury": null,
       "stats": {
         "gp": 6,
         "wins": 1,
