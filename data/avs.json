@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-20T02:17:39.821Z",
+  "updated": "2026-11-20T11:29:47.218Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -20,7 +20,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 0,
+        "gp": 1,
         "goals": 0,
         "assists": 0,
         "points": 0,
@@ -45,13 +45,13 @@
       "injury": {
         "name": "Gavin Brindley",
         "status": "Out",
-        "bodyPart": "Upper Body",
+        "bodyPart": "Concussion",
         "detail": null,
         "side": null,
         "returnDate": "2026-11-25",
-        "updated": "2026-11-19T21:28Z",
-        "shortComment": "Brindley (upper body) is slated to be unavailable for Thursday's game against the Ducks, AJ Haefele of DNVR Avalanche reports.",
-        "longComment": "Brindley exited Wednesday's game against the Mammoth due to an upper-body injury, and he'll miss the second half of the back-to-back set. While the severity of the injury isn't yet clear, he'll have nearly a week to recover before the Avalanche face the Canadiens on Nov. 25. Adam Beckman is set to make his Avalanche debut during Thursday's matchup."
+        "updated": "2026-11-20T05:04Z",
+        "shortComment": "Brindley is in concussion protocol and is considered out indefinitely, Bailey Curtis of DNVR Sports reports.",
+        "longComment": "Brindley sustained the injury Wednesday versus the Mammoth. The 22-year-old forward won't be able to play until he's cleared the concussion protocol, and even when that happens, he might be reassigned to AHL Colorado to get back up to speed."
       },
       "stats": {
         "gp": 7,
@@ -78,10 +78,10 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 2,
-        "assists": 8,
-        "points": 10,
+        "assists": 9,
+        "points": 11,
         "plusMinus": -2,
         "pim": 2
       }
@@ -102,11 +102,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 5,
-        "assists": 12,
-        "points": 17,
-        "plusMinus": -2,
+        "assists": 13,
+        "points": 18,
+        "plusMinus": -1,
         "pim": 10
       }
     },
@@ -126,7 +126,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 5,
         "assists": 5,
         "points": 10,
@@ -184,11 +184,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 8,
-        "assists": 5,
-        "points": 13,
-        "plusMinus": -4,
+        "assists": 6,
+        "points": 14,
+        "plusMinus": -3,
         "pim": 22
       }
     },
@@ -208,11 +208,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 15,
         "assists": 6,
         "points": 21,
-        "plusMinus": 13,
+        "plusMinus": 15,
         "pim": 4
       }
     },
@@ -266,11 +266,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 10,
-        "assists": 14,
-        "points": 24,
-        "plusMinus": 9,
+        "assists": 16,
+        "points": 26,
+        "plusMinus": 11,
         "pim": 8
       }
     },
@@ -290,11 +290,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
-        "goals": 6,
-        "assists": 7,
-        "points": 13,
-        "plusMinus": 5,
+        "gp": 23,
+        "goals": 8,
+        "assists": 8,
+        "points": 16,
+        "plusMinus": 7,
         "pim": 10
       }
     },
@@ -314,7 +314,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 11,
+        "gp": 12,
         "goals": 0,
         "assists": 3,
         "points": 3,
@@ -338,11 +338,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 16,
-        "goals": 3,
+        "gp": 17,
+        "goals": 4,
         "assists": 4,
-        "points": 7,
-        "plusMinus": -1,
+        "points": 8,
+        "plusMinus": 0,
         "pim": 4
       }
     },
@@ -362,7 +362,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 7,
         "assists": 7,
         "points": 14,
@@ -386,12 +386,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 3,
         "assists": 5,
         "points": 8,
         "plusMinus": 9,
-        "pim": 27
+        "pim": 29
       }
     },
     {
@@ -410,7 +410,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 0,
         "assists": 6,
         "points": 6,
@@ -458,12 +458,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 17,
+        "gp": 18,
         "goals": 0,
         "assists": 2,
         "points": 2,
-        "plusMinus": -1,
-        "pim": 8
+        "plusMinus": 0,
+        "pim": 12
       }
     },
     {
@@ -482,11 +482,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
+        "gp": 23,
         "goals": 0,
         "assists": 5,
         "points": 5,
-        "plusMinus": 2,
+        "plusMinus": 3,
         "pim": 14
       }
     },
@@ -540,11 +540,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 21,
+        "gp": 22,
         "goals": 0,
         "assists": 9,
         "points": 9,
-        "plusMinus": 14,
+        "plusMinus": 16,
         "pim": 4
       }
     },
@@ -598,7 +598,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 0,
+        "gp": 1,
         "goals": 0,
         "assists": 0,
         "points": 0,
@@ -622,11 +622,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 22,
-        "goals": 6,
-        "assists": 13,
-        "points": 19,
-        "plusMinus": 15,
+        "gp": 23,
+        "goals": 7,
+        "assists": 14,
+        "points": 21,
+        "plusMinus": 17,
         "pim": 8
       }
     },
@@ -671,13 +671,13 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 6,
-        "wins": 1,
+        "gp": 7,
+        "wins": 2,
         "losses": 3,
         "otl": 2,
-        "gaa": 3.991734,
-        "svPct": 0.863354,
-        "shutouts": 0
+        "gaa": 3.381148,
+        "svPct": 0.88172,
+        "shutouts": 1
       }
     }
   ],
