@@ -1,33 +1,9 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-20T11:29:47.218Z",
+  "updated": "2026-11-20T20:09:21.080Z",
   "injuryFeedOk": true,
   "players": [
-    {
-      "id": 8481550,
-      "name": "Adam Beckman",
-      "number": 34,
-      "position": "L",
-      "group": "Forward",
-      "letter": "",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8481550.png",
-      "birthDate": "2001-05-10",
-      "birthPlace": "Saskatoon, SK, CAN",
-      "height": 74,
-      "weight": 192,
-      "shoots": "L",
-      "status": "Active",
-      "injury": null,
-      "stats": {
-        "gp": 1,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 0,
-        "pim": 0
-      }
-    },
     {
       "id": 8484149,
       "name": "Gavin Brindley",
@@ -41,17 +17,17 @@
       "height": 68,
       "weight": 173,
       "shoots": "R",
-      "status": "Out",
+      "status": "Day-To-Day",
       "injury": {
         "name": "Gavin Brindley",
-        "status": "Out",
+        "status": "Day-To-Day",
         "bodyPart": "Concussion",
         "detail": null,
         "side": null,
         "returnDate": "2026-11-25",
-        "updated": "2026-11-20T05:04Z",
-        "shortComment": "Brindley is in concussion protocol and is considered out indefinitely, Bailey Curtis of DNVR Sports reports.",
-        "longComment": "Brindley sustained the injury Wednesday versus the Mammoth. The 22-year-old forward won't be able to play until he's cleared the concussion protocol, and even when that happens, he might be reassigned to AHL Colorado to get back up to speed."
+        "updated": "2026-11-20T14:41Z",
+        "shortComment": "day-to-day",
+        "longComment": "day-to-day"
       },
       "stats": {
         "gp": 7,
@@ -419,30 +395,6 @@
       }
     },
     {
-      "id": 8482942,
-      "name": "Alex Gagne",
-      "number": 28,
-      "position": "D",
-      "group": "Defense",
-      "letter": "",
-      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8482942.png",
-      "birthDate": "2002-08-12",
-      "birthPlace": "Bedford, NH, USA",
-      "height": 76,
-      "weight": 205,
-      "shoots": "L",
-      "status": "Active",
-      "injury": null,
-      "stats": {
-        "gp": 2,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -1,
-        "pim": 5
-      }
-    },
-    {
       "id": 8478454,
       "name": "Noah Juulsen",
       "number": 47,
@@ -676,7 +628,7 @@
         "losses": 3,
         "otl": 2,
         "gaa": 3.381148,
-        "svPct": 0.88172,
+        "svPct": 0.882979,
         "shutouts": 1
       }
     }
