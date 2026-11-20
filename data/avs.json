@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-19T20:30:17.390Z",
+  "updated": "2026-11-20T02:17:39.821Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -41,17 +41,17 @@
       "height": 68,
       "weight": 173,
       "shoots": "R",
-      "status": "Day-To-Day",
+      "status": "Out",
       "injury": {
         "name": "Gavin Brindley",
-        "status": "Day-To-Day",
+        "status": "Out",
         "bodyPart": "Upper Body",
         "detail": null,
         "side": null,
-        "returnDate": "2026-11-19",
-        "updated": "2026-11-19T04:38Z",
-        "shortComment": "day-to-day",
-        "longComment": "day-to-day"
+        "returnDate": "2026-11-25",
+        "updated": "2026-11-19T21:28Z",
+        "shortComment": "Brindley (upper body) is slated to be unavailable for Thursday's game against the Ducks, AJ Haefele of DNVR Avalanche reports.",
+        "longComment": "Brindley exited Wednesday's game against the Mammoth due to an upper-body injury, and he'll miss the second half of the back-to-back set. While the severity of the injury isn't yet clear, he'll have nearly a week to recover before the Avalanche face the Canadiens on Nov. 25. Adam Beckman is set to make his Avalanche debut during Thursday's matchup."
       },
       "stats": {
         "gp": 7,
@@ -503,17 +503,17 @@
       "height": 72,
       "weight": 187,
       "shoots": "R",
-      "status": "Out",
+      "status": "Injured Reserve",
       "injury": {
         "name": "Cale Makar",
-        "status": "Out",
+        "status": "Injured Reserve",
         "bodyPart": "Lower Body",
         "detail": null,
         "side": null,
         "returnDate": "2026-11-28",
-        "updated": "2026-11-14T17:37Z",
-        "shortComment": "out",
-        "longComment": "out"
+        "updated": "2026-11-19T21:33Z",
+        "shortComment": "ir",
+        "longComment": "ir"
       },
       "stats": {
         "gp": 19,
