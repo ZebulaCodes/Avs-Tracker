@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-24T13:37:16.495Z",
+  "updated": "2026-11-24T23:52:36.200Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -462,10 +462,10 @@
         "bodyPart": "Lower Body",
         "detail": null,
         "side": null,
-        "returnDate": "2026-11-28",
-        "updated": "2026-11-19T21:33Z",
-        "shortComment": "ir",
-        "longComment": "ir"
+        "returnDate": "2026-11-25",
+        "updated": "2026-11-24T18:19Z",
+        "shortComment": "Makar (lower body) was on the ice in a regular sweater ahead of Wednesday's clash with Montreal, Evan Rawal of the Denver Gazette reports.",
+        "longComment": "Makar being cleared for practice doesn't guarantee he'll be ready to play versus the Habs on Wednesday, but the fact that he was skating with a regular partner in Brett Kulak could be a good indication. In order to suit up, Makar will need to be activated off injured reserve, which will be the final step in his return-to-play process."
       },
       "stats": {
         "gp": 19,
