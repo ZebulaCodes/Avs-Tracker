@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-27T12:09:26.539Z",
+  "updated": "2026-11-27T21:12:46.313Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -154,7 +154,7 @@
         "bodyPart": "Upper Body",
         "detail": null,
         "side": null,
-        "returnDate": "2026-11-27",
+        "returnDate": "2026-12-08",
         "updated": "2026-10-23T21:39Z",
         "shortComment": "ir-lt",
         "longComment": "ir-lt"
