@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-26T16:50:00.194Z",
+  "updated": "2026-11-27T01:42:01.634Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -41,17 +41,17 @@
       "height": 68,
       "weight": 173,
       "shoots": "R",
-      "status": "Out",
+      "status": "Injured Reserve",
       "injury": {
         "name": "Gavin Brindley",
-        "status": "Out",
+        "status": "Injured Reserve",
         "bodyPart": "Concussion",
         "detail": null,
         "side": null,
-        "returnDate": "2026-12-01",
-        "updated": "2026-11-21T20:47Z",
-        "shortComment": "out",
-        "longComment": "out"
+        "returnDate": "2026-12-08",
+        "updated": "2026-11-27T01:27Z",
+        "shortComment": "ir",
+        "longComment": "ir"
       },
       "stats": {
         "gp": 7,
@@ -248,6 +248,30 @@
         "points": 30,
         "plusMinus": 6,
         "pim": 12
+      }
+    },
+    {
+      "id": 8482953,
+      "name": "Taylor Makar",
+      "number": 16,
+      "position": "L",
+      "group": "Forward",
+      "letter": "",
+      "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8482953.png",
+      "birthDate": "2001-03-13",
+      "birthPlace": "Calgary, AB, CAN",
+      "height": 75,
+      "weight": 190,
+      "shoots": "L",
+      "status": "Active",
+      "injury": null,
+      "stats": {
+        "gp": 2,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 0,
+        "pim": 2
       }
     },
     {
