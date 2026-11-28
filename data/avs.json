@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-28T03:17:42.574Z",
+  "updated": "2026-11-28T15:27:26.642Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -287,17 +287,17 @@
       "height": 75,
       "weight": 195,
       "shoots": "R",
-      "status": "Out",
+      "status": "Day-To-Day",
       "injury": {
         "name": "Martin Necas",
-        "status": "Out",
+        "status": "Day-To-Day",
         "bodyPart": "Upper Body",
         "detail": null,
         "side": null,
         "returnDate": "2026-11-28",
-        "updated": "2026-11-27T21:01Z",
-        "shortComment": "out",
-        "longComment": "out"
+        "updated": "2026-11-28T14:08Z",
+        "shortComment": "day-to-day",
+        "longComment": "day-to-day"
       },
       "stats": {
         "gp": 24,
