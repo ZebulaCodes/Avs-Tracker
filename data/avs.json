@@ -1,7 +1,7 @@
 {
   "team": "COL",
   "season": "20262027",
-  "updated": "2026-11-27T21:12:46.313Z",
+  "updated": "2026-11-28T03:17:42.574Z",
   "injuryFeedOk": true,
   "players": [
     {
@@ -20,7 +20,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 2,
+        "gp": 3,
         "goals": 0,
         "assists": 1,
         "points": 1,
@@ -78,11 +78,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
-        "goals": 2,
-        "assists": 11,
-        "points": 13,
-        "plusMinus": -1,
+        "gp": 25,
+        "goals": 3,
+        "assists": 12,
+        "points": 15,
+        "plusMinus": 0,
         "pim": 2
       }
     },
@@ -102,11 +102,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
+        "gp": 25,
         "goals": 5,
-        "assists": 13,
-        "points": 18,
-        "plusMinus": -1,
+        "assists": 14,
+        "points": 19,
+        "plusMinus": 0,
         "pim": 24
       }
     },
@@ -126,12 +126,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
+        "gp": 25,
         "goals": 5,
         "assists": 5,
         "points": 10,
         "plusMinus": 4,
-        "pim": 11
+        "pim": 15
       }
     },
     {
@@ -184,12 +184,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
+        "gp": 25,
         "goals": 9,
         "assists": 6,
         "points": 15,
-        "plusMinus": -3,
-        "pim": 22
+        "plusMinus": -2,
+        "pim": 24
       }
     },
     {
@@ -208,11 +208,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
-        "goals": 16,
-        "assists": 7,
-        "points": 23,
-        "plusMinus": 17,
+        "gp": 25,
+        "goals": 17,
+        "assists": 8,
+        "points": 25,
+        "plusMinus": 18,
         "pim": 4
       }
     },
@@ -266,7 +266,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 2,
+        "gp": 3,
         "goals": 0,
         "assists": 0,
         "points": 0,
@@ -287,8 +287,18 @@
       "height": 75,
       "weight": 195,
       "shoots": "R",
-      "status": "Active",
-      "injury": null,
+      "status": "Out",
+      "injury": {
+        "name": "Martin Necas",
+        "status": "Out",
+        "bodyPart": "Upper Body",
+        "detail": null,
+        "side": null,
+        "returnDate": "2026-11-28",
+        "updated": "2026-11-27T21:01Z",
+        "shortComment": "out",
+        "longComment": "out"
+      },
       "stats": {
         "gp": 24,
         "goals": 11,
@@ -314,11 +324,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
+        "gp": 25,
         "goals": 8,
-        "assists": 10,
-        "points": 18,
-        "plusMinus": 10,
+        "assists": 11,
+        "points": 19,
+        "plusMinus": 11,
         "pim": 10
       }
     },
@@ -338,7 +348,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 13,
+        "gp": 14,
         "goals": 1,
         "assists": 3,
         "points": 4,
@@ -362,11 +372,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 18,
+        "gp": 19,
         "goals": 4,
         "assists": 4,
         "points": 8,
-        "plusMinus": 0,
+        "plusMinus": -1,
         "pim": 4
       }
     },
@@ -386,11 +396,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
+        "gp": 25,
         "goals": 7,
         "assists": 7,
         "points": 14,
-        "plusMinus": 0,
+        "plusMinus": 1,
         "pim": 6
       }
     },
@@ -410,7 +420,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
+        "gp": 25,
         "goals": 3,
         "assists": 5,
         "points": 8,
@@ -434,7 +444,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
+        "gp": 25,
         "goals": 0,
         "assists": 6,
         "points": 6,
@@ -482,11 +492,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
+        "gp": 25,
         "goals": 0,
         "assists": 5,
         "points": 5,
-        "plusMinus": 5,
+        "plusMinus": 3,
         "pim": 14
       }
     },
@@ -506,10 +516,10 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 20,
+        "gp": 21,
         "goals": 5,
-        "assists": 21,
-        "points": 26,
+        "assists": 22,
+        "points": 27,
         "plusMinus": 7,
         "pim": 2
       }
@@ -530,11 +540,11 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 23,
+        "gp": 24,
         "goals": 0,
         "assists": 10,
         "points": 10,
-        "plusMinus": 16,
+        "plusMinus": 15,
         "pim": 6
       }
     },
@@ -588,7 +598,7 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 2,
+        "gp": 3,
         "goals": 0,
         "assists": 0,
         "points": 0,
@@ -612,12 +622,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 24,
-        "goals": 9,
+        "gp": 25,
+        "goals": 10,
         "assists": 14,
-        "points": 23,
+        "points": 24,
         "plusMinus": 18,
-        "pim": 8
+        "pim": 10
       }
     },
     {
@@ -636,12 +646,12 @@
       "status": "Active",
       "injury": null,
       "stats": {
-        "gp": 18,
-        "wins": 12,
+        "gp": 19,
+        "wins": 13,
         "losses": 4,
         "otl": 1,
-        "gaa": 2.409831,
-        "svPct": 0.909871,
+        "gaa": 2.438584,
+        "svPct": 0.907787,
         "shutouts": 2
       }
     },
